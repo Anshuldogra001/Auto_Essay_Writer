@@ -4,7 +4,8 @@
 
 ####Some example work screenshots...
 
-![image](https://github.com/Anshuldogra001/Auto_Essay_Writer/assets/96309140/eabd11dc-1b72-449b-b35b-f752ac3d9e1a)
+![image](https://github.com/Anshuldogra001/Auto_Essay_Writer/assets/96309140/1d5d569a-9d73-4757-82d8-a276b724be28)
+
 
 
 ![image](https://github.com/Anshuldogra001/Auto_Essay_Writer/assets/96309140/69625cf5-0e67-422a-a3a4-a606076acde1)
