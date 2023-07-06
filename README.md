@@ -11,4 +11,5 @@
 
 
 
-![image](https://github.com/Anshuldogra001/Auto_Essay_Writer/assets/96309140/c8572b88-cee8-4d4c-bdc9-1f53e3a6604e)
+![image](https://github.com/Anshuldogra001/Auto_Essay_Writer/assets/96309140/63b9474e-d45b-4975-bdcc-2f7362411a1a)
+
