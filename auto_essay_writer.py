@@ -1,3 +1,6 @@
+# to use change the word name as it is in your system
+# To change the size just change no. of down and up in given code at specified positions.
+
 import pyautogui
 import time
 import colorama
